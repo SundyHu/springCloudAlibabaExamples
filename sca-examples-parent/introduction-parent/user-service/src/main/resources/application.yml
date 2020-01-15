@@ -1,0 +1,7 @@
+server:
+  port: 9001
+spring:  application:    name: user-service
+  cloud:    nacos:      discovery:        server-addr: localhost:8848
+        namespace: 282360fc-233f-4837-9342-d753f4c1b6c8
+        group: SCA-GROUP
+debug: true          
