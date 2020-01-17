@@ -139,5 +139,6 @@
 	</build>
 	<modules>
 		<module>introduction-parent</module>
+		<module>sca-common</module>
 	</modules>
 </project>
